@@ -91,9 +91,9 @@
   background-position: center;
   display: flex;
   flex-direction: column;
-  justify-content: space-between; 
+  justify-content: space-between;
   padding: 165px 50px 50px 50px;
-  gap: 115px; 
+  gap: 115px;
   color: #fff;
   margin-bottom: 180px;
 }
@@ -226,12 +226,14 @@
   line-height: 1.2;
   text-transform: uppercase;
   text-decoration: underline;
+  letter-spacing: 0;
 }
 
 .card__text {
   font-size: 20px;
   line-height: 1.2;
   font-weight: 400;
+  letter-spacing: 0;
 }
 
 .card_type_film {
